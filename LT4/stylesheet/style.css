@@ -36,15 +36,3 @@ body,html{
      text-align: center;
    
 }
-button{
-    background-color: red;
-    color: white;
-    text-decoration: none;
-    border: 2px solid transparent;
-    font-weight: bold;
-    padding: 13px 30px;
-    border-radius: 30px;
-    transition: .5s;
-    margin-left: 60%;
-    margin-top: 15%;
-}
