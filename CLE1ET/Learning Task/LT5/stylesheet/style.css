@@ -1,0 +1,72 @@
+
+html{
+    background-image:url(league.jpg);
+    background-repeat: no-repeat;
+}
+
+.button {
+    transition-duration: 0.4s;
+    background-color: #0e1445;
+    color: snow;
+    border: 4px solid #7a6e1a;
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 170px;
+    font-family: monospace;
+    
+}
+
+.button:hover{
+    background-color: aqua;
+    color: #0e1445;
+}
+
+.Div{
+    text-align: center;
+    margin-top: 230px;
+}
+
+img{
+    position: center;
+}
+
+h2{
+    margin-top: 40px;
+    font-family: 'VT323', monospace;
+    font-size: 30px;
+    letter-spacing: 4px;
+     color: #0e1445;
+}
+
+h1{
+    color: darkblue;
+    font-family: 'VT323', monospace;
+    letter-spacing: 4px;
+    font-size: 35px;
+    color: #0e1445;
+}
+button {
+    transition-duration: 0.4s;
+    background-color: #0e1445;
+    color: snow;
+    border: 4px solid #7a6e1a;
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 170px;
+    font-family: monospace;
+    
+}
+button:hover{
+    background-color: aqua;
+    color: #0e1445;
+}
+
+@media only screen and (max-width: 600px);
